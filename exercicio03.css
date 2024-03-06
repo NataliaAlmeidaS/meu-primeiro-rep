@@ -1,0 +1,25 @@
+.card1 {
+    background-color: #449eb9;
+    width: 500px;
+    height: 500px;
+}
+
+.inform {
+    background-color: rgb(83, 139, 192);
+    color: white;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.altura {
+    background-color:   rgb(19, 80, 116);
+    width: 50%;
+    height: 50vh;
+}
+
+.largura {
+    background-color: rgb(14, 36, 65);
+    width: 75vw;
+    height: 50%;
+}
